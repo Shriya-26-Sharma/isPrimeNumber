@@ -1,1 +1,1 @@
-# Right Shift Bitwise Operator 
+# Pattern Print using Function
