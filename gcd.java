@@ -17,7 +17,7 @@ System.out.println("The GCD is :"+gg);
   if (first%i == 0 && second%i ==0){
     g = i;
   }
-      i ++;
+     i ++;
     }
    return g;
     }
