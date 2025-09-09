@@ -1,1 +1,1 @@
-# LCM of a num
+# Armstrong Number 
