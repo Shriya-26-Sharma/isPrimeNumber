@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class arrayInput {
-   public arrayInput() {
+   public static void main(String[] args) {
+      
    }
    public static int[] inputArray() {
       Scanner var0 = new Scanner(System.in);
