@@ -1,1 +1,1 @@
-# PalineDrome Array 
+# Merging Array
