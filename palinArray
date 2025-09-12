@@ -1,0 +1,18 @@
+class palinArray{
+    public static void main(String args[]){
+     int input =arrayInput.inputArray();
+     boolean isPalin=isPalin(input);
+     if(isPalin){
+     System.out.println("Your  Array is Palindrone");
+     }
+     System.out.println("Your Array is Not Palindrone");
+    }
+    public static boolean isPalin(int input[]){
+    for(int i=0;i<input.length;i++){
+        if(input[i]!=input[input.length-i-1]){
+            return false;
+        }
+    }return true;
+
+    }
+}
