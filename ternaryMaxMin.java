@@ -7,5 +7,6 @@
         int num2=sc.nextInt();
         int greatestNum=num1>num2?num1:num2;
         System.out.println("The greatest is :"+greatestNum);
+        sc.close();
     }
 }
